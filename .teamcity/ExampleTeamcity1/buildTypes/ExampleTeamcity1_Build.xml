@@ -3,6 +3,9 @@
   <name>Build</name>
   <description />
   <settings>
+    <options>
+      <option name="checkoutMode" value="ON_SERVER" />
+    </options>
     <parameters />
     <build-runners>
       <runner id="RUNNER_5" name="" type="Maven2">
